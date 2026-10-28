@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:Spacos-MAC0322/web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:Spacos-MAC0322/server.git
